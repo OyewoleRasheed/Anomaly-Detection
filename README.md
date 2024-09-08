@@ -1,10 +1,16 @@
-# Anomaly-Detection
-This repository contains the code for anomaly detection in irradiation and weather dataset for 12 German Cities.
-This project involve using supervised and unsupervised learning algorithms to detect anomaly in meteorological data
-and compensate for them to ensure data quality and integrity. The project uses LOF, Xgboost, Autoencoder and Naive Bayes algorithm.
-Autoencoder was the best performing model, detecting the highest percentage of anomaly.
+Anomaly-Detection
+This repository contains the code for anomaly detection in irradiation and weather datasets for 12 German cities. The project aims to enhance data quality and integrity by identifying and compensating for anomalies in meteorological data using both supervised and unsupervised learning algorithms.
+Project Overview
+The project employs the following algorithms for anomaly detection:
+Local Outlier Factor (LOF)
+XGBoost
+Autoencoder
+Naive Bayes
+Among these, the Autoencoder model demonstrated the highest performance, detecting the most significant percentage of anomalies. 
+Post-detection, anomalies were compensated for to improve the datasets, ensuring data quality for more accurate predictions in solar and wind power generation.
 
-This project was carried out by the people below 
--[Oyewole Rasheed Adebayo](https://github.com/yourusername)
-- [Rafiat Bamimore Akodu](https://github.com/Rawphy)
-- [Taiwo Sanda](https://github.com/username2)
+Contributors
+This project was collaboratively developed by:
+Oyewole Rasheed Adebayo
+Rafiat Bamimore Akodu
+Taiwo Sanda
