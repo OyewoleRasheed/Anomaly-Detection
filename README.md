@@ -6,5 +6,5 @@ Autoencoder was the best performing model, detecting the highest percentage of a
 
 This project was carried out by the people below 
 -[Oyewole Rasheed Adebayo](https://github.com/yourusername)
-- [Rafiat Bamimore Akodu](https://github.com/username1)
+- [Rafiat Bamimore Akodu](https://github.com/Rawphy)
 - [Taiwo Sanda](https://github.com/username2)
